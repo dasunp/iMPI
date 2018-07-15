@@ -1,4 +1,4 @@
-package com.interblocks.testabilityPOC.server;
+package com.interblocks.iMPI.server;
 
 /**
  * Created by dasunperera on 6/10/18.

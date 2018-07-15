@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>MyServlet</servlet-name>
-        <servlet-class>com.interblocks.testabilityPOC.server.MyServlet</servlet-class>
+        <servlet-class>com.interblocks.iMPI.server.MyServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>

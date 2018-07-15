@@ -1,4 +1,4 @@
-package com.interblocks.testabilityPOC.server;
+package com.interblocks.iMPI.server;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

@@ -1,4 +1,4 @@
-package com.interblocks.testabilityPOC.server;
+package com.interblocks.iMPI.server;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
